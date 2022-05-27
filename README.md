@@ -19,6 +19,12 @@ Portfólio <b>em formação</b>, todo repositório público faz parte dele.
     <img src="https://skillicons.dev/icons?i=linux,bash,md,vscode,arduino,octave" />
   </a>
 </p>
+Aprendendo:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,jquery,react,postgres" />
+  </a>
+</p>
 
 Mantenho os commits repositórios <b>privados</b> para visualização da minha frequência de desenvolvimento. Já que alguns são de cursos, em que o desenvolvimento é linear, e o git é apenas backup/cloud; outros contém propriedade intelectual de licença fechada.
 
