@@ -6,7 +6,7 @@ Portfólio <b>em formação</b>, todo repositório público faz parte dele.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,django,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
   </a>
 </p>
 <p align="center">
