@@ -1,9 +1,10 @@
-## Engenheiro e técnico
+### Engenheiro e técnico
+Ex-programador embarcado
 
-### Programador Web em desenvolvimento na Trybe
+### Programador Web em formação
 
-Portfólio <b>em formação</b>, todo repositório público faz parte dele.
-
+Portfólio <b>em formação</b>, todo repositório público faz parte dele.</br>
+Stacks usuais:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
@@ -26,6 +27,7 @@ Aprendendo:
   </a>
 </p>
 
-Mantenho os commits repositórios <b>privados</b> para visualização da minha frequência de desenvolvimento. Já que alguns são de cursos, em que o desenvolvimento é linear, e o git é apenas backup/cloud; outros contém propriedade intelectual de licença fechada.
+Mantenho os commits de repositórios <b>privados</b> para visualização da minha frequência de desenvolvimento. </br>
+No caso de cursos, em que o desenvolvimento é linear, o git é apenas backup/cloud. Outros projetos contém propriedade intelectual de licença fechada, portanto todos s.
 
 ![Metrics](/github-metrics.svg)
