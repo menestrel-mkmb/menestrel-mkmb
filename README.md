@@ -4,33 +4,29 @@
 
 ### Certificações
 
-<ul style="list-style:none">
-  <li>IBSEC - Fundamentos da Informática  </li>
-  <li>IBSEC - Fundamentos de Redes  </li>
-</ul>
+<p>IBSEC - Fundamentos da Informática</p>
+<p>IBSEC - Fundamentos de Redes</p>
 
 ### Programador Web em formação
 
-<ul align="center" style="list-style:none">
-  Stacks usuais:
-  <li>
-    <img src="https://skillicons.dev/icons?i=css,html,js,git,github" />
-  </li>
-  <li>
-      <img src="https://skillicons.dev/icons?i=bash,linux,md,sass,wordpress,vscode" />
-  </li>
-  Aprendendo:
-  <li>
-      <img src="https://skillicons.dev/icons?i=django,postgres,react,typescript" />
-    </li>
-  Sem atividades recentes:
-  <li>
-      <img src="https://skillicons.dev/icons?i=arduino,c,py" />
-    </li>
-  <li>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,octave" />
-  </li>
-</ul>
+Stacks usuais:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,html,js,git,github" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bash,linux,md,sass,wordpress,vscode" />
+</p>
+Aprendendo:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=django,postgres,react,typescript" />
+  </p>
+Sem atividades recentes:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,c,py" />
+  </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,octave" />
+</p>
 
 <p>Portfólio <b>em formação</b>, todo repositório público faz parte dele.</p>
 
