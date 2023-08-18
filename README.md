@@ -1,6 +1,8 @@
-### Engenheiro e técnico
+### Pós-graduado em Análise e Desenvolvimento de Programas, Engenheiro de Controle e Automação, Técnico Mecatrônico
 
-Ex-programador embarcado
+<p>Ex-programador embarcado</p>
+<p>Eterno estudante</p>
+<p>Apaixonado por conhecimento</p>
 
 ### Programador Web em formação
 
@@ -9,23 +11,29 @@ Stacks usuais:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,git,github" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,flutter,py" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,md,vscode,arduino,octave" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,md,sass,wordpress,vscode" />
   </a>
 </p>
 Aprendendo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,jquery,react,postgres" />
+    <img src="https://skillicons.dev/icons?i=django,postgres,react,typescript" />
+  </a>
+</p>
+Sem atividades recentes:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,c,py" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,octave" />
   </a>
 </p>
 
