@@ -1,6 +1,9 @@
 ### Pós-graduado em Análise e Desenvolvimento de Programas, Engenheiro de Controle e Automação, Técnico Mecatrônico
 
-<p>Ex-programador embarcado. Eterno estudante. Apaixonado por conhecimento</p>
+* Estudante MBA InfoSec.
+* Ex-programador embarcado.  
+* Apaixonado por conhecimento.
+* Tech-savvy.
 
 ### Certificações
 
@@ -18,11 +21,11 @@ Stacks usuais:
 </p>
 Aprendendo:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=django,postgres,react,typescript" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,react,typescript" />
   </p>
 Sem atividades recentes:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,c,py" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,django,py" />
   </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,octave" />
@@ -31,6 +34,7 @@ Sem atividades recentes:
 <p>Portfólio <b>em formação</b>, todo repositório público faz parte dele.</p>
 
 <p>Mantenho os commits de repositórios <b>privados</b> para visualização parcial da minha frequência de desenvolvimento.</p>
-<p>No caso de cursos, em que o desenvolvimento é linear, o git é apenas backup/cloud. Outros projetos contém propriedade intelectual de licença e visibilidade fechada.</p>
+<p>No caso de cursos, em que o desenvolvimento é linear, o git é apenas backup/cloud.</p>
+<p>Outros projetos podem conter propriedade intelectual de licença e visibilidade fechada, ou não conter interface visual para avaliação, e me reservei a omití-los.</p>
 
 ![Metrics](/github-metrics.svg)
