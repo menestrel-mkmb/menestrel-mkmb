@@ -1,6 +1,5 @@
-### Pós-graduado em Análise e Desenvolvimento de Programas, Engenheiro de Controle e Automação, Técnico Mecatrônico
+### MBA em Segurança da Informação, Pós-graduado em Análise & Desenvolvimento de Programas, Engenheiro de Controle & Automação e Técnico Mecatrônico
 
-* Estudante MBA InfoSec.
 * Ex-programador embarcado.  
 * Apaixonado por conhecimento.
 * Tech-savvy.
@@ -21,7 +20,7 @@ Stacks usuais:
 </p>
 Aprendendo:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,postgres,react,typescript" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,postgres,react,typescript" />
   </p>
 Sem atividades recentes:
 <p align="center">
