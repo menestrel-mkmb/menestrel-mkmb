@@ -9,27 +9,7 @@
 
 ### Programador Web
 
-Stacks usuais:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,java,wordpress,sass" />
-  </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-  </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,md" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,django,py" />
-  </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,linux,vscode" />
-  </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,octave" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,sass,postgres,mysql,mongodb,redis,java,spring,wordpress,bash,git,github,linux,vscode,postman,md,c,django,py,arduino,dart,flutter,octave" />
 </p>
 
 ![Metrics](/github-metrics.svg)
