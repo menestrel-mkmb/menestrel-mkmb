@@ -9,7 +9,7 @@
 
 ### Programador Web
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,sass,postgres,mysql,mongodb,redis,java,spring,wordpress,bash,git,github,linux,vscode,postman,md,c,django,py,arduino,dart,flutter,octave" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,sass,postgres,mysql,mongodb,redis,firebase,prisma" />
+<img src="https://skillicons.dev/icons?i=java,spring,wordpress,django,py,bash,git,github,linux,vscode,postman,figma,md" />
 
 ![Metrics](/github-metrics.svg)
